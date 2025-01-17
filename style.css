@@ -1,21 +1,29 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(50, 57, 65);
+}
 /* base style */
 
 html {
     background-color: rgb(255, 183, 101);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
+    background-color: antiquewhite;
+    box-sizing: border-box;
     width: 600px;
-    background-color: bisque;
     margin: auto;
-    padding: 0 20px 20px 20px;
+    padding: 10px;
     border: 4px double rgb(102, 91, 77);
 }
 
 h1 {
     color: rgb(58, 69, 90);
     text-align: center;
+}
+
+h2 {
+    color: rgb(58, 69, 90);
 }
 
 a:hover{
