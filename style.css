@@ -8,6 +8,11 @@ html {
     background-color: rgb(255, 183, 101);
 }
 
+div {
+    padding: 8px;
+    margin-block: 2px;
+}
+
 body {
     background-color: antiquewhite;
     box-sizing: border-box;
